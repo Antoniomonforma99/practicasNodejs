@@ -1,0 +1,17 @@
+{
+  "name": "practicababel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node --require 'babel-register' src/index.js",
+    "lint": "standard 'src/**/*js'"
+  },
+  "author": "Antonio Montero",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
