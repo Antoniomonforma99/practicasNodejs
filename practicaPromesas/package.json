@@ -1,0 +1,14 @@
+{
+  "name": "practicapromesas",
+  "version": "1.0.0",
+  "description": "uso de promesas",
+  "main": "promise/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "Antonio Montero",
+  "license": "ISC"
+}
